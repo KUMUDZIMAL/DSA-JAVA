@@ -1,4 +1,4 @@
-// Time Complexity: O(n²)
+ // Time Complexity: O(n²)
 // Outer loop runs n times.
 // Inner loop runs up to n times in worst case.
 // Total = n * n = n².
