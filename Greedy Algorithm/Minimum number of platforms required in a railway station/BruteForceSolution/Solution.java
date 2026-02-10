@@ -1,4 +1,4 @@
-
+import java.lang.Math;
 class Solution {
     public int minPlatform(int arr[], int dep[]) {
         int n = arr.length;
