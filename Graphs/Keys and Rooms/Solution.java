@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         boolean[] visited = new boolean[rooms.size()];
