@@ -1,4 +1,4 @@
-
+// This is not Two pointer but Dutch National Flag Algorithm
 class Solution {
     public void sortColors(int[] nums) {
         int low = 0;
