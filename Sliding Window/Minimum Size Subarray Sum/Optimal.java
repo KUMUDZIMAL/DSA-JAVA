@@ -1,6 +1,5 @@
-class Solution {
+class Optimal {
     public int minSubArrayLen(int target, int[] nums) {
-
         int left = 0;
         int sum = 0;
         int minLen = Integer.MAX_VALUE;
